@@ -1,0 +1,23 @@
+{
+  "name": "fd_angular_animatemove_directive",
+  "version": "0.0.0",
+  "authors": [
+    "Frank Dreitzner"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angularjs": "~1.4.0",
+    "angular-aria": "~1.4.0",
+    "angular-messages": "~1.4.0",
+    "angular-animate": "~1.4.0",
+    "angular-material": "~0.9.6",
+    "angular-material-icons": "~0.4.0"
+  }
+}
